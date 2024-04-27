@@ -27,26 +27,26 @@ I’m currently learning <strong>CCNA, TinyML</strong>
 
 ## Projects
 
-1. *Design to PCB*
+1. **Design to PCB**
    - Description: A showcase of custom PCB designs and footprints, featuring KiCad schematics and PCB layouts initially designed with CAD modeling, along with unique footprints derived from Inkscape illustrations, converted for KiCad use. 
    - Tools used: KiCad, FreeCAD, Inkscape
    - GitHub Repository: [https://github.com/Paschalis/Design2PCB](https://github.com/Paschalis/Design2PCB) 
    
 #### <div align="center">Projects with the Atmel (now Microchip) MCUs</div>
 
-1. *Knee Movement Simulator* 
-   - Description: A sipmple knee movement simulator based on an arduino board and a servomotor.
+1. **Knee Movement Simulator**
+   - Description: A simple knee movement simulator based on an Arduino board and a servomotor.
    - Tools used: Arduino IDE, ATmega328p
    - GitHub Repository: [https://github.com/k-antoniou/Arduino-Knee-Movement-Simulator](https://github.com/k-antoniou/Arduino-Knee-Movement-Simulator) 
 
-1. *Panic Attack Detection System* 
+1. **Panic Attack Detection System** 
    - Description: Arduino Panic Attack Detection System 
    - Tools used: Arduino IDE, ATmega328p
    - GitHub Repository: [https://github.com/k-antoniou/Arduino-Panic-Attack-Detection-System](https://github.com/k-antoniou/Arduino-Panic-Attack-Detection-System)    
 
 #### <div align="center">Projects with the Espressif Systems MCUs, Focus on ESP32</div>
 
-1. *Feline Watchdog: Missing Cat Alert System* ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
+1. **Feline Watchdog: Missing Cat Alert System** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
    - Description: An ESP32-based system to alert you when your cat goes missing. Monitors Wi-Fi connection between your cat's collar-mounted ESP32 device and a Raspberry Pi. Notifications sent to your iOS or Android device using ntfy and Docker. Peace of mind for cat owners.
    - Tools used: ESP32, Raspberry Pi, KiCad, FreeCAD
    - GitHub Repository: [https://github.com/k-antoniou/FelineWatchdog](https://github.com/k-antoniou/FelineWatchdog) 
