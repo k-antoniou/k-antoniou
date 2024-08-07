@@ -10,7 +10,6 @@ I’m currently learning <strong>CCNA, TinyML</strong>
   </p>
 
 
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -41,22 +40,22 @@ I’m currently learning <strong>CCNA, TinyML</strong>
 
 1. **Panic Attack Detection System** 
    - Description: Arduino Panic Attack Detection System 
-   - Tools used: Arduino IDE, ATmega328p
+   - Tools used: Arduino IDE, ATmega328p, Proteus 8
    - GitHub Repository: [https://github.com/k-antoniou/Arduino-Panic-Attack-Detection-System](https://github.com/k-antoniou/Arduino-Panic-Attack-Detection-System)    
 
 #### <div align="center">Projects with the Espressif Systems MCUs, Focus on ESP32</div>
 
 1. **Feline Watchdog: Missing Cat Alert System**
    - Description: An ESP32-based system to alert you when your cat goes missing. Monitors Wi-Fi connection between your cat's collar-mounted ESP32 device and a Raspberry Pi. Notifications sent to your iOS or Android device using ntfy and Docker. Peace of mind for cat owners.
-   - Tools used: ESP32, Raspberry Pi, KiCad, FreeCAD
+   - Tools used: ESP32, Raspberry Pi, KiCad, FreeCAD, Fusion360
    - GitHub Repository: [https://github.com/k-antoniou/FelineWatchdog](https://github.com/k-antoniou/FelineWatchdog) 
 
 #### <div align="center">Projects with the ST MCUs, Focus on STM32</div>
 
 ## Technical Skills
-- *Embedded Systems*: Arduino, Raspberry Pi, Jetson Nano
-- *Electronics*: KiCad
-
+- *Microcontrollers*: Arduino
+- *Embedded Systems*: Raspberry Pi, Jetson Nano
+- *Electronics*: KiCad, Proteus 8
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=k-antoniou&show_icons=true&hide_title=true"><img src="https://github-readme-stats.vercel.app/api?username=k-antoniou&show_icons=true&hide_title=true" alt="GitHub Stats"></a>
